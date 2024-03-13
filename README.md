@@ -159,6 +159,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s1nker&show_icons=true&locale=en&layout=compact" alt="s1nker" /></p> -->
 
-<div aligh="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1nker&show_icons=true&locale=en" alt="s1nker" /></div>
+<!-- <div aligh="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1nker&show_icons=true&locale=en" alt="s1nker" /></div> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s1nker&" alt="s1nker" /></p> -->
